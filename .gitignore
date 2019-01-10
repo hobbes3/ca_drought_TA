@@ -1,0 +1,3 @@
+lookups/*/*.val
+lookups/*/*.key
+lookups/*.index/*
